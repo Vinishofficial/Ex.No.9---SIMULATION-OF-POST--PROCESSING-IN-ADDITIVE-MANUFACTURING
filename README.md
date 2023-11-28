@@ -46,9 +46,16 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2023-11-29 002639](https://github.com/Vinishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/695f2049-dc99-4af0-8f67-706ac7b44938)
+![Screenshot 2023-11-29 002624](https://github.com/Vinishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/1c77a80b-7bc4-472c-8cc0-11707d9d6526)
+![Screenshot 2023-11-29 002609](https://github.com/Vinishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/49bc87e6-a40b-4aa1-be0e-bde7f5a80473)
+![Screenshot 2023-11-29 002554](https://github.com/Vinishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/6792bf94-d5b8-49e0-b706-669ae97a043a)
+![Screenshot 2023-11-29 002344](https://github.com/Vinishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/56a50db5-a2fc-4da2-bf4d-5d145e0c9066)
+![Screenshot 2023-11-29 002333](https://github.com/Vinishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/e5857f65-e874-4125-b8ff-ae4fc30a903c)
 
-### Name:
-### Register Number:
+
+### Name: VINISH RAJ R
+### Register Number: 23014040
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
