@@ -69,15 +69,6 @@
 
 ![image](https://github.com/Vinishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146931793/7eaf0332-990f-49fc-8486-6e8774367724)
 
-
-
-
-
-
-
-
-
-
 ### Name: VINISH RAJ R
 ### Register Number: 23014040
 
